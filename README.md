@@ -3,7 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&pause=1000&color=1976D2&center=true&vCenter=true&lines=%3CHello+World%2C+Prathamesh+here!%2F%3E)
 
 <!-- Followers -->
-![GitHub followers](https://img.shields.io/github/followers/0xprathamesh?style=flat&label=FOLLOWERS) <img src="https://komarev.com/ghpvc/?username=0xprathamesh&label=PROFILE VIEWS  &color=red&style=flat" alt="0xprathamesh"/>
+![GitHub followers](https://img.shields.io/github/followers/0xprathamesh?style=flat&label=FOLLOWERS) 
 
 
 - 👨‍💻 I’m currently working on my **DSA** and **Development Skills**.
