@@ -44,8 +44,10 @@
 [![Prathamesh holopin board](https://holopin.me/prathamesh21)](https://holopin.io/@prathamesh21)
 
 
-## **Languages and Tools**<!-- https://github.com/Ileriayo/markdown-badges -->
-<p>
+## **Languages and Tools**
+<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=vscode,html,css,js,ts,tailwind,react,nextjs,figma,git,bootstrap,firebase,graphql,nodejs,express,mongodb,java,spring,solidity,python"> </a> </p>
+
+<!--<p>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40px" height="40px">
 
@@ -66,7 +68,7 @@
 <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="35px" height="35px">
 
 
-</p>
+</p> -->
 
 ## **Wanna know more about me?** 
 **Send me an email** : prathameshpatil6499@gmail.com@gmail.com
