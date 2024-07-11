@@ -71,7 +71,7 @@
 </p> -->
 
 ## **Wanna know more about me?** 
-**Send me an email** : prathameshpatil6499@gmail.com@gmail.com
+**Send me an email** : prathameshpatil6499@gmail.com
 
 
 ## **GitHub Trophies :**
