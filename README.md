@@ -6,7 +6,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/0xprathamesh?style=flat&label=FOLLOWERS) 
 
 
-- 👨‍💻 I’m currently working on my **DSA** and **Development Skills**.
+- 👨‍💻 I’m a **Blockchain Developer** at @BlocksScan
 - 🤯 I’m currently learning  **Blockchain Development**
 - 🤩 I’m looking to collaborate on **Web Development** Projects
 - 👨‍🏭 **Data Science Undergrad** and **Software Developer** 
