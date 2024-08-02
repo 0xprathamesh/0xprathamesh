@@ -9,7 +9,7 @@
 - 👨‍💻 I’m a **Blockchain Developer** at [BlocksScan](https://github.com/BlocksScan)
 - 🤯 I’m currently learning  **Blockchain Development**
 - 🤩 I’m looking to collaborate on **Web Development** Projects
-- 👨‍🏭 **Data Science Undergrad** and **Software Developer** 
+- 👨‍🏭 **Data Science Undergrad** and **Full Stack Engineer** 
 
 <a href="https://leetcode.com/prathameshspatil/">
   <img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=black"/>
