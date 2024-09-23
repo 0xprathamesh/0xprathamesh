@@ -36,7 +36,6 @@
 - I dig up 🕵️‍♀️real-world problems🌍and **find solutions** for them.
 - I 😍love to **create and modify new products** and **projects**👨‍💻.
 - I focus on my **problem-solving skill** and trend awareness🕵️‍♀️.
-- I **build** Autonoumous and Manual **Robots**🤺.
 - Always excited and ready to **learn new skills👨‍🎓**.
 
 
