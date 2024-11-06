@@ -7,7 +7,6 @@
 
 
 - 👨‍💻 I’m a **Blockchain Engineer** at [BlocksScan](https://github.com/BlocksScan)
-- 🤯 I’m currently learning  **DSA**
 - 🤩 I’m looking to collaborate on **Web Development** Projects
 - 👨‍🏭 **Computer Science Undergrad** and **Full Stack Engineer** 
 
