@@ -43,7 +43,7 @@
 
 
 ## **Languages and Tools**
-<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=vscode,html,css,js,ts,tailwind,react,nextjs,figma,git,bootstrap,firebase,graphql,nodejs,express,mongodb,java,spring,solidity,python"> </a> </p>
+<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=vscode,html,css,js,ts,tailwind,react,nextjs,figma,git,bootstrap,firebase,graphql,nodejs,express,mongodb,java,spring,solidity,python,docker,vercel,prisma,postgresql,mysql"> </a> </p>
 
 <!--<p>
 
