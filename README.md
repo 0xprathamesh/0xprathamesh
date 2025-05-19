@@ -1,5 +1,8 @@
 <link href="style.css" rel="stylesheet"></link>
 
+<img width="1000" alt="techskills" src="https://github.com/user-attachments/assets/f43f2b72-c2e6-4626-b670-c1ee477dbc46" />
+
+
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&pause=1000&color=1976D2&center=true&vCenter=true&lines=%3CHello+World%2C+Prathamesh+here!%2F%3E)
 
 
