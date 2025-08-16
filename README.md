@@ -9,8 +9,8 @@
 ![GitHub followers](https://img.shields.io/github/followers/0xprathamesh?style=flat&label=FOLLOWERS) 
 
 
-- 👨‍💻 **Blockchain Engineer** at [BlocksScan](https://github.com/BlocksScan)
-- 🤩 Looking to collaborate on **Web Development** Projects
+- 👨‍💻 **Software Engineer(Blockchain)**
+- 🤩 Looking to collaborate on **Web Development & AI Agents** Projects
 - 👨‍🏭 **Computer Science Undergrad**
 
 <a href="https://leetcode.com/prathameshspatil/">
