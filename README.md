@@ -11,7 +11,7 @@
 
 - 👨‍💻 **Software Engineer(Blockchain)**
 - 🤩 Looking to collaborate on **Web Development & AI Agents** Projects
-- 👨‍🏭 **Computer Science Undergrad**
+- 👨‍🏭 **Computer Science Undergrad(2028)**
 
 <a href="https://leetcode.com/prathameshspatil/">
   <img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=black"/>
