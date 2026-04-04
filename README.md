@@ -78,9 +78,9 @@
 ## **GitHub Trophies :**
 <!-- https://github.com/ryo-ma/github-profile-trophy -->
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/0xprathamesh"><img src="https://github-profile-trophy.vercel.app/?username=0xprathamesh&rank=SSS,SS,S,A,AA,AAA,SECRET,B,C&row=1&theme=flat&no-frame=true" alt="0xprathamesh"/></a>
-</p>
+</p> -->
 
 
 <!-- The cards -->
@@ -88,14 +88,14 @@
 
 <p align="center">
 
-<a href="https://github.com/0xprathamesh" title="Redirect's to 0xprathamesh's Github">
-<img width="46%" src="https://github-readme-stats.vercel.app/api?username=0xprathamesh&show_icons=true&theme=dark&count_private=true&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE" /></a>
+<!-- <a href="https://github.com/0xprathamesh" title="Redirect's to 0xprathamesh's Github">
+<img width="46%" src="https://github-readme-stats.vercel.app/api?username=0xprathamesh&show_icons=true&theme=dark&count_private=true&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE" /></a> -->
   
-<a href="https://github.com/0xprathamesh">
-<img width= "49%" title="Redirect's to 0xprathamesh Github" src="https://github-readme-streak-stats.herokuapp.com/?user=0xprathamesh&theme=dark&theme=black-ice&stroke=0000" /></a>
+<!-- <a href="https://github.com/0xprathamesh">
+<img width= "49%" title="Redirect's to 0xprathamesh Github" src="https://github-readme-streak-stats.herokuapp.com/?user=0xprathamesh&theme=dark&theme=black-ice&stroke=0000" /></a> -->
 
-<a href ="https://github.com/0xprathamesh" title="Redirect's to 0xprathamesh Github">
-<img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xprathamesh&layout=compact&theme=dark&langs_count=6&count_private=false&text_color=d3d3d3&title_color=00E6FE"/></a>
+<!-- <a href ="https://github.com/0xprathamesh" title="Redirect's to 0xprathamesh Github">
+<img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xprathamesh&layout=compact&theme=dark&langs_count=6&count_private=false&text_color=d3d3d3&title_color=00E6FE"/></a> -->
 
 
 <a href="https://github.com/0xprathamesh" title="Redirects to github page">
@@ -113,4 +113,4 @@
 </div>
 
 
-<img src="https://github.com/0xprathamesh/0xprathamesh/blob/main/Assets/Mario_Gameplay.gif" alt="Mario Game" width = 100%>
+<!-- <img src="https://github.com/0xprathamesh/0xprathamesh/blob/main/Assets/Mario_Gameplay.gif" alt="Mario Game" width = 100%> -->
