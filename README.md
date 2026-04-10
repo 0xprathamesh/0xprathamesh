@@ -106,11 +106,11 @@
 </p>
 
 
-<div align =center>
+<!-- <div align =center>
 
 [![0xprathamesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=0xprathamesh&custom_title=0xprathamesh's%20Activity&hide_border=true&theme=react-dark)](https://github.com/0xprathamesh/github-readme-activity-graph)
 
-</div>
+</div> -->
 
 
 <!-- <img src="https://github.com/0xprathamesh/0xprathamesh/blob/main/Assets/Mario_Gameplay.gif" alt="Mario Game" width = 100%> -->
