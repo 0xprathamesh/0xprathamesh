@@ -9,7 +9,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/0xprathamesh?style=flat&label=FOLLOWERS) 
 
 
-- 👨‍💻 **Software Engineer I**
+- 👨‍💻 **Software Engineer**
 - 🤩 Looking to collaborate on **Full Stack & AI Agents** Projects
 - 👨‍🏭 **Computer Science Undergrad(2028)**
 
